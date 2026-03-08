@@ -1,0 +1,3 @@
+groups-data/Shoe_types2.csv
+مواد
+بطاقة مجموعة

@@ -1,0 +1,3 @@
+subjects-data/Shoe_Detailed_Types3.csv
+مواد
+بطاقة مادة

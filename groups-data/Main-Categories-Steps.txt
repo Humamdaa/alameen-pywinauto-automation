@@ -1,0 +1,3 @@
+groups-data/Main_categories1.csv
+مواد
+بطاقة مجموعة
